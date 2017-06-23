@@ -1,0 +1,18 @@
+{
+  "name": "heimrichhannot/vex",
+  "description": "Contao component of the modern dialog library vex from hubspot which is highly configurable and easy to style.",
+  "type": "contao-component",
+  "keywords": [
+    "js",
+    "vex",
+    "contao",
+    "component",
+    "dialog"
+  ],
+  "homepage": "https://github.com/HubSpot/vex",
+  "license": "MIT",
+  "require": {
+    "contao-components/installer": "^1.0.9"
+  }
+}
+
